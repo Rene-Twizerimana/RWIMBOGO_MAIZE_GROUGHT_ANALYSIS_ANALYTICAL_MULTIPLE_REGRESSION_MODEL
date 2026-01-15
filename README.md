@@ -1,4 +1,4 @@
-🌽 Drought Impact & Strategy Effectiveness Modeling for Maize Production (Rwimbogo, Rwanda)
+**Drought Impact & Strategy Effectiveness Modeling for Maize Production (Rwimbogo, Rwanda)**
 
 This repository contains a complete data science pipeline that analyzes how drought affects maize yield and how farmers’ coping strategies and institutional support reduce these losses.
 
@@ -20,7 +20,7 @@ Model diagnostics & visualizations
 
 The goal is to quantify climate vulnerability and measure the impact of adaptation strategies using interpretable econometric models.
 
-📌 Problem Statement
+** Problem Statement**
 
 Farmers in drought-prone areas face repeated crop losses. However, not all farmers are affected equally. Some adopt strategies (e.g., drought-resistant seeds, irrigation), and some receive support (inputs, training, credit).
 
@@ -94,7 +94,7 @@ Drought_Frequency_Score
 
 Drought_Effects_Score
 
-📊 Model Evaluation
+ **Model Evaluation**
 
 Models are evaluated using:
 
@@ -106,7 +106,7 @@ MAE	Average absolute error
 
 The main selection metric is R².
 
-📈 Visual Outputs
+**VISUAL OUTPUTS**
 
 The project generates:
 
@@ -114,7 +114,7 @@ Correlation heatmaps
 
 
 
-Methodology
+**Methodology**
 
 This project follows a structured data science workflow:
 
@@ -136,7 +136,7 @@ Feature engineering
 
 Creating composite drought and strategy indices
 
-Exploratory Data Analysis (EDA)
+**Exploratory Data Analysis (EDA)**
 
 Summary statistics
 
@@ -160,8 +160,8 @@ RMSE
 
 MAE
 
-📐 Models Used
-Model 1: Yield Loss Drivers (Main Model)
+**Models Used**
+**Model 1: Yield Loss Drivers (Main Model)**
 
 Target variable:
 
@@ -179,7 +179,7 @@ Support_Access_Score
 
 This model identifies the main factors that increase or reduce maize yield loss.
 
-Model 2: Strategy Effectiveness Drivers
+**Model 2: Strategy Effectiveness Drivers**
 
 Target variable:
 
@@ -197,7 +197,7 @@ Drought_Effects_Score
 
 This model explains what makes drought coping strategies more effective.
 
-📊 Evaluation Metrics
+**Evaluation Metrics**
 
 The models are evaluated using the following metrics:
 
@@ -209,7 +209,7 @@ MAE	Measures average absolute error
 
 These metrics help assess both accuracy and generalization performance.
 
-🧠 Key Research Questions
+**Key Research Questions**
 
 This project answers:
 
